@@ -1,3 +1,3 @@
 # gitskills
-creating A new branch is quick and simple
+creating A new branch is quick and simple bug
 changed
